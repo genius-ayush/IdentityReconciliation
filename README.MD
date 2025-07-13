@@ -1,8 +1,8 @@
-# 🧠 Identity Reconciliation - Bitespeed Backend Task
+# 🧠 Identity Reconciliation
 
 ## 📌 Task Overview
 
-This project is a solution to the [Bitespeed Backend Task](https://www.bitespeed.in/) focused on **identity reconciliation** for customer contacts.
+
 
 When users place orders using different combinations of phone numbers and email addresses, the goal is to **link all of them to a single primary contact**.
 
@@ -30,7 +30,7 @@ You can test it using Postman, Curl, or the UI of your choice.
 - **TypeScript**
 - **Express.js**
 - **Prisma ORM**
-- **SQLite** (can be easily switched to PostgreSQL)
+- **PostgresSQL** 
 - **Vercel** (deployment)
 
 ---
