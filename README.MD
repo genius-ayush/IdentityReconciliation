@@ -47,3 +47,22 @@ You can test it using Postman, Curl, or the UI of your choice.
   "email": "mcfly@hillvalley.edu",
   "phoneNumber": "123456"
 }
+
+### 🔸 Output Body(JSON)
+
+```json
+{
+    "contact": {
+        "primaryContactId": 1,
+        "emails": [
+            "lorraine@hillvalley.edu",
+            "mcfly@hillvalley.edu"
+        ],
+        "phoneNumbers": [
+            "123456"
+        ],
+        "secondaryContactIds": [
+            2
+        ]
+    }
+}
