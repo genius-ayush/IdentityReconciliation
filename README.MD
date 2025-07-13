@@ -47,7 +47,7 @@ You can test it using Postman, Curl, or the UI of your choice.
   "email": "mcfly@hillvalley.edu",
   "phoneNumber": "123456"
 }
-
+```
 ### 🔸 Output Body(JSON)
 
 ```json
